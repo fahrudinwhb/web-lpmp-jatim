@@ -1,0 +1,1 @@
+      <footer class="main-footer">        <div class="pull-right hidden-xs"></div>        <strong>Copyright &copy; 2016 <a href="<?php echo site_url('admin')?>">Dian Permata Nusantara Admin</a>.</strong>       </footer>
